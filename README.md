@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java Topics.**
 
-- ⚡ Fun fact **I think Im Very Social**
+- ⚡ **Run Gabo Run**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
