@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriel Mora Patiño</h1>
-<h3 align="center">"🚀 Full-stack developer | Java, JavaScript, HTML, CSS, PHP, Kotlin, Python | Turning ideas into code. Passionate about problem-solving and open source. Join me on this coding journey! 🌟 #CodeExplorer"</h3>
+<h3 align="center">"🚀 Full-stack developer | Java, JavaScript, HTML, CSS, PHP, Kotlin, Python, Flutter, React, Vue, Node, Laravel | Turning ideas into code. Passionate about problem-solving and open source. Join me on this coding journey! 🌟 #CodeExplorer"</h3>
 
-- 🔭 I’m currently working on **RadioFrecuency RF433MHZ Chat in Java With Text to Speech.**
+- 🔭 I’m currently working on **Mobile APP for Blind persons - Flutter/LLM/API-REST.**
 
-- 🌱 I’m currently learning **Java, Assembly, Python.**
+- 🌱 I’m currently learning **React, Vue, Laravel**
 
 - 💬 Ask me about **Java Topics.**
 
